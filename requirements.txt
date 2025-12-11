@@ -6,3 +6,5 @@ Pillow
 opencv-python-headless
 scikit-learn
 mtcnn
+facenet-pytorch
+torchvision
